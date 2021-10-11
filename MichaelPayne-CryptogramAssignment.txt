@@ -1,0 +1,4 @@
+﻿1. Queue
+2. Pair-Programming
+3. Advisor Meetings
+4. Message Instructor or Mentor
